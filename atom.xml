@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>DDMTDXW</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://ddmtdxw.github.io/</id>
+  <link href="https://ddmtdxw.github.io/" rel="alternate"/>
+  <link href="https://ddmtdxw.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, DDMTDXW</rights>
+  <subtitle>一步一句是相思</subtitle>
+  <title>他乡遇故知</title>
+  <updated>2026-04-18T02:26:15.325Z</updated>
+  <entry>
+    <author>
+      <name>DDMTDXW</name>
+    </author>
+    <content>
+      <![CDATA[<p>测试</p>]]>
+    </content>
+    <id>https://ddmtdxw.github.io/2026/04/18/%E6%B5%8B%E8%AF%95/</id>
+    <link href="https://ddmtdxw.github.io/2026/04/18/%E6%B5%8B%E8%AF%95/"/>
+    <published>2026-04-18T02:25:27.778Z</published>
+    <summary>
+      <![CDATA[<p>测试</p>]]>
+    </summary>
+    <title>测试</title>
+    <updated>2026-04-18T02:26:15.325Z</updated>
+  </entry>
+</feed>
